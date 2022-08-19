@@ -13,3 +13,9 @@ This repo contains leetcode data structures solutions which I solved
    <li><a href="https://github.com/smashysubash/datastructures-leetcode/blob/051950719c7aef42244cce3d798c1d079798a284/Algorithm-I/344ReverseString.cpp">344. Reverse String</a></li>
    <li><a href="https://github.com/smashysubash/datastructures-leetcode/blob/051950719c7aef42244cce3d798c1d079798a284/Algorithm-I/557ReverseWordsinaStringIII.cpp">557. Reverse Words in a String III</a></li>
 </ul>
+
+<h1>Daily Challenge</h1>
+<ul>
+   <li><a href="https://github.com/smashysubash/leetcode-problems/blob/59d68351a19abe6c6a1aee01bcbfc1d91a916fbe/DailyChallenge/13RomantoInteger.cpp">13. Roman to Integer</a></li>
+   <li><a href="https://github.com/smashysubash/leetcode-problems/blob/59d68351a19abe6c6a1aee01bcbfc1d91a916fbe/DailyChallenge/387FirstUniqueCharacterinaString.cpp">387. First Unique Character in a String</a></li>
+</ul>
